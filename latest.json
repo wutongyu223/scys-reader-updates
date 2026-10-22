@@ -1,0 +1,8 @@
+{
+  "versionCode": 8,
+  "versionName": "0.6.0-online",
+  "publishedAt": "2026-10-22",
+  "downloadUrl": "https://github.com/wutongyu223/scys-reader-updates/releases/download/v0.6.0/shengcai-reader-0.6.0.apk",
+  "sha256": "386898846615b9ce42db2e7946198299cad731b50af255a8cbc0e815bc327e81",
+  "notes": "新增在线推荐目录、手动刷新与应用更新检查；保留收藏批注和阅读进度，续读改为按文章编号定位。"
+}
